@@ -1,13 +1,13 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.13.35919.96 d17.13
+VisualStudioVersion = 17.13.35919.96
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Caliber_API", "Caliber_API\Caliber_API.csproj", "{B33BDAE2-D400-45C0-9EC3-AD255C5230DD}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Caliber_API", "Src\Caliber_API\Caliber_API.csproj", "{EE6E4F28-7302-4C9F-96B1-623A34FC26EE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Caliber_Components", "Caliber_Components\Caliber_Components.csproj", "{9F5C4572-018B-49D0-A854-80AF69FC80BC}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Caliber_Components", "Src\Caliber_Components\Caliber_Components.csproj", "{372F40CD-7367-4E85-8F60-5FCA1CDE7EBA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Caliber_Models", "Caliber_Models\Caliber_Models.csproj", "{254BDF6A-5B30-4E99-B8F1-BE0A6B194BCB}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Caliber_Models", "Src\Caliber_Models\Caliber_Models.csproj", "{71209676-CF76-49CC-86D2-0F66E5A49271}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,18 +15,18 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{B33BDAE2-D400-45C0-9EC3-AD255C5230DD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{B33BDAE2-D400-45C0-9EC3-AD255C5230DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{B33BDAE2-D400-45C0-9EC3-AD255C5230DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{B33BDAE2-D400-45C0-9EC3-AD255C5230DD}.Release|Any CPU.Build.0 = Release|Any CPU
-		{9F5C4572-018B-49D0-A854-80AF69FC80BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{9F5C4572-018B-49D0-A854-80AF69FC80BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{9F5C4572-018B-49D0-A854-80AF69FC80BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{9F5C4572-018B-49D0-A854-80AF69FC80BC}.Release|Any CPU.Build.0 = Release|Any CPU
-		{254BDF6A-5B30-4E99-B8F1-BE0A6B194BCB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{254BDF6A-5B30-4E99-B8F1-BE0A6B194BCB}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{254BDF6A-5B30-4E99-B8F1-BE0A6B194BCB}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{254BDF6A-5B30-4E99-B8F1-BE0A6B194BCB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EE6E4F28-7302-4C9F-96B1-623A34FC26EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EE6E4F28-7302-4C9F-96B1-623A34FC26EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EE6E4F28-7302-4C9F-96B1-623A34FC26EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EE6E4F28-7302-4C9F-96B1-623A34FC26EE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{372F40CD-7367-4E85-8F60-5FCA1CDE7EBA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{372F40CD-7367-4E85-8F60-5FCA1CDE7EBA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{372F40CD-7367-4E85-8F60-5FCA1CDE7EBA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{372F40CD-7367-4E85-8F60-5FCA1CDE7EBA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{71209676-CF76-49CC-86D2-0F66E5A49271}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{71209676-CF76-49CC-86D2-0F66E5A49271}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{71209676-CF76-49CC-86D2-0F66E5A49271}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{71209676-CF76-49CC-86D2-0F66E5A49271}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
